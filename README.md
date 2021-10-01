@@ -1,7 +1,8 @@
 ### Hi there 👋
 
 - Hello, I'm virtual 👋
-- ![sumy7](https://komarev.com/ghpvc/?username=sang-Mu) ![sumy7](https://visitor-badge.glitch.me/badge?page_id=sang-Mu.profile)
+- ![sumy7](https://komarev.com/ghpvc/?username=sang-Mu) 
+<!-- - ![sumy7](https://visitor-badge.glitch.me/badge?page_id=sang-Mu.profile) -->
 
 
 ## Some Statistics About Me
